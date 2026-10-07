@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+build/
+*.spec
+reference/
+*.sqlite3*
+*.lock
+dist/
+.publish/
+.env
+.env.*
+settings.json
+exports/
+media/
+data/
